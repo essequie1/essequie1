@@ -1,4 +1,4 @@
-## Hi 👋, i'm Ezequiel!
+## Hi 👋, i'm Ezequiel and i'm a Front-end web dev.
   
 
 <a href="https://dev.to/essequiel" target="_blank">
@@ -10,11 +10,6 @@
 <a href="https://codepen.io/essequiel" target="_blank">
 <img src=https://img.shields.io/badge/CODEPEN-1E1F26?&style=for-the-badge&logo=codepen&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-
-### About me 
-
-I am a passionate front-end web developer, always trying to make not just good looking interfaces but rather an memorable experience for the users.
-<br/>  
 
 ## My skillset
 <div align="center">  
