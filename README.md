@@ -1,4 +1,4 @@
-# Hi 👋, i'm Ezequiel and i'm a Front-end web dev.
+# Hi 👋, my name is Ezequiel and i'm a Front-end web dev.
   
 
 <div>  
